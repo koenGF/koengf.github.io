@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "android e-reader app design"
-date:   2022-10-03
+date:   2022-01-24
 excerpt: "the design of an e-reader app for android, made in Adobe XD."
 project: true
 tag:
