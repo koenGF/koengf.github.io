@@ -2,7 +2,7 @@
 layout: page
 title: About me
 tags: [about]
-date: 2021-01-24
+date: 2022-01-24
 comments: false
 ---
     
@@ -31,6 +31,6 @@ comments: false
 * listen to podcasts
 * play videogames
 
-##Let's get in touch!
+## Let's get in touch!
 If you'd like to see some projects I've worked on, please see [the projects page](https://koengf.io/projects) or [my github](https://github.com/koenGF?tab=repositories).
 You can contact me via the email address on [my homepage](https://koengf.github.io).
