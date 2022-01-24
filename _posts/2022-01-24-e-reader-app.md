@@ -23,14 +23,14 @@ First, I looked for similar applications on the Play Store. My favorites were Go
 After about two weeks of research and design, this was the result.
 
 {% capture images %}
-    assets/img/e-reader/book.png
-    assets/img/e-reader/bookshelf.png
-    assets/img/e-reader/details.png
-    assets/img/e-reader/drawer.png
-    assets/img/e-reader/libraries.png
-    assets/img/e-reader/opds.png
-    assets/img/e-reader/settings.png
-    assets/img/e-reader/statistics.png
+    ../assets/img/e-reader/book.png
+    ../assets/img/e-reader/bookshelf.png
+    ../assets/img/e-reader/details.png
+    ../assets/img/e-reader/drawer.png
+    ../assets/img/e-reader/libraries.png
+    ../assets/img/e-reader/opds.png
+    ../assets/img/e-reader/settings.png
+    ../assets/img/e-reader/statistics.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of final design" cols=3 %}
 
