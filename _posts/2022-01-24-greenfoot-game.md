@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Disc Foot"
+date:   2022-01-24
+excerpt: "A greenfoot game based on Disc Room"
+project: true
+tag:
+- project
+  comments: false
+---
+
+<center>In 2021, I participated in a two-week greenfoot game jam at school.</center>
+
+
+## Instructions
+We were to learn how to use [greenfoot](https://www.greenfoot.org) and make a game with it in 2 weeks. I decided to base mine on [Disc Room](https://discroom.com/), a game I was playing at the time.
+
+## Process
+At around the same time, a Disc Room game jam was being held on itch.io by the developers, although I did not participate. I used some of the sound effects they provided, as well as royalty free music I found on pixabay.com.
+
+## Result
+The goal of the game was to collect as many "nuggets" as possible, while avoiding the razor discs bouncing on the walls. More discs are added as the player gains more points.
+<br><br>
+I won the greenfoot gamejam. The source code can be found on [github](https://github.com/koenGF/DiscFoot). 

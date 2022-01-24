@@ -16,9 +16,12 @@ comments: false
 * PHP
 * MySQL
 * Database design
-* Android app Development
+* Android app development
 * Unity game development
 * WordPress
+* Adobe XD
+* Adobe Photoshop
+* Figma
 
 ## Languages
 * Dutch (native)
