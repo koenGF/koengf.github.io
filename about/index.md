@@ -1,37 +1,36 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2021-01-24
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>I'm Koen, a 20 year old software developer from Amsterdam.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Skills
+* Java
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+* Database design
+* Android app Development
+* Unity game development
+* WordPress
 
-## Preview
+## Languages
+* Dutch (native)
+* English ([C2 Proficiency](https://www.cambridgeenglish.org/exams-and-tests/proficiency/))
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## In my free time, I like to
+* listen to music
+* watch TV (currently star trek TNG)
+* watch movies
+* listen to podcasts
+* play videogames
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+##Let's get in touch!
+If you'd like to see some projects I've worked on, please see [the projects page](https://koengf.io/projects) or [my github](https://github.com/koenGF?tab=repositories).
+You can contact me via the email address on [my homepage](https://koengf.github.io).
