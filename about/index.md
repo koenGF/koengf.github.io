@@ -35,5 +35,5 @@ comments: false
 * play videogames
 
 ## Let's get in touch!
-If you'd like to see some projects I've worked on, please see [the projects page](https://koengf.github.io/projects) or [my github](https://github.com/koenGF?tab=repositories).
-You can contact me via the email address on [my homepage](https://koengf.github.io).
+If you'd like to see some projects I've worked on, please see [the projects page](../projects) or [my github](https://github.com/koenGF?tab=repositories).
+You can contact me via the email address on [my homepage](../).
