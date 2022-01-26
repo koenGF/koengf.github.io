@@ -25,7 +25,7 @@ comments: false
 
 ## Languages
 * Dutch (native)
-* English ([C2 Proficiency](https://www.cambridgeenglish.org/exams-and-tests/proficiency/))
+* English ([C2 Proficiency](https://www.cambridgeenglish.org/exams-and-tests/proficiency/){:target="_blank"})
 
 ## In my free time, I like to
 * listen to music
@@ -35,5 +35,6 @@ comments: false
 * play videogames
 
 ## Let's get in touch!
-If you'd like to see some projects I've worked on, please see [the projects page](../projects) or [my github](https://github.com/koenGF?tab=repositories).
+If you'd like to see some projects I've worked on, please see [the projects page](../projects) or 
+[my github](https://github.com/koenGF?tab=repositories){:target="_blank"}. 
 You can contact me via the email address on [my homepage](../).
